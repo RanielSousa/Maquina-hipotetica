@@ -1,6 +1,6 @@
 // nome do pacote 
 package com.br.MH;
-// importaçãpp das classes
+// importação das classes
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 
 public class LerArquivo {
-	//estaciaçãod a classe File e Buff	
+	//estaciação da classe File e Buff	
 	FileReader FileR;
 	BufferedReader BuffR;
 	// metodo contrutor 
